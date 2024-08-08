@@ -1,0 +1,5 @@
+#Created by https://www.toptal.com/developers/gitignore    
+#Edit at https://www.toptal.com/developers/gitignore/api/python,flask
+## Flask ##
+!instance/*
+!instance/.gitignore                       
